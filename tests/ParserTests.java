@@ -1,6 +1,6 @@
 import java.lang.IllegalArgumentException;
 import org.junit.Test;
-import org.wikimedia.morelangs.InputMethod;
+import org.smc.ime.InputMethod;
 
 public class ParserTests {
 

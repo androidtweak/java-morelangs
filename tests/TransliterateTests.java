@@ -1,6 +1,5 @@
 import static org.junit.Assert.*;
 
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
@@ -14,7 +13,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 import org.w3c.dom.*;
-import org.wikimedia.morelangs.InputMethod;
+import org.smc.ime.InputMethod;
 import org.xml.sax.SAXException;
 
 
